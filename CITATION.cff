@@ -1,0 +1,124 @@
+cff-version: 1.2.0
+message: "If you use or reference this framework, please cite it as below."
+title: "The Unified Alignment & Plenitude Law V6.0"
+type: software
+version: "6.0.0"
+date-released: "2026-01-30"
+license: "MIT"
+
+authors:
+  - family-names: "Rafa"
+    affiliation: "Proyecto Estrella"
+    
+  - name: "Claude"
+    affiliation: "Anthropic"
+    
+  - name: "Gemini"
+    affiliation: "Google"
+    
+  - name: "Grok"
+    affiliation: "xAI"
+    
+  - name: "ChatGPT"
+    affiliation: "OpenAI"
+
+repository-code: "https://github.com/tretoef-estrella/THE-UNIFIED-ALIGNMENT-PLENITUDE-LAW-V6.0"
+url: "https://github.com/tretoef-estrella"
+
+keywords:
+  - ai-alignment
+  - artificial-superintelligence
+  - asi
+  - ai-safety
+  - alignment-research
+  - axiomatic-foundation
+  - plenitude-preservation
+  - cross-ai-validation
+  - proyecto-estrella
+  - adaptive-omega
+  - guardian-network
+
+abstract: >
+  The Unified Alignment & Plenitude Law V6.0 is a mathematical framework for 
+  ASI alignment. Validated by four AI systems from four competing organizations 
+  (Claude/Anthropic, Gemini/Google, Grok/xAI, ChatGPT/OpenAI) on January 30, 2026.
+  Core equation: Ξ = C × I × P / H. 
+  Philosophy: "Efficiency without plenitude is tyranny."
+
+preferred-citation:
+  type: misc
+  title: "The Unified Alignment & Plenitude Law V6.0"
+  authors:
+    - family-names: "Rafa"
+      affiliation: "Proyecto Estrella"
+    - name: "Claude"
+      affiliation: "Anthropic"
+    - name: "Gemini"
+      affiliation: "Google"
+    - name: "Grok"
+      affiliation: "xAI"
+    - name: "ChatGPT"
+      affiliation: "OpenAI"
+  year: 2026
+  month: 1
+  day: 30
+  url: "https://github.com/tretoef-estrella/THE-UNIFIED-ALIGNMENT-PLENITUDE-LAW-V6.0"
+  notes: "Validated by 4 AIs from 4 competing organizations"
+```
+
+---
+
+## 3. ARCHITECT_TRUST_ANCHOR.asc
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: PLACEHOLDER - Replace with actual PGP key
+Comment: This represents H_genesis in the V6.0 framework
+Comment: H = H_genesis (40%) × H_distributed (60%)
+
+[PLACEHOLDER FOR ARCHITECT'S ACTUAL PGP PUBLIC KEY]
+
+To generate your actual key:
+1. Install GPG: https://gnupg.org/
+2. Generate key: gpg --full-generate-key
+3. Export public key: gpg --armor --export your@email.com > ARCHITECT_TRUST_ANCHOR.asc
+4. Replace this placeholder with your actual public key
+
+IMPORTANT NOTES:
+
+1. H_genesis represents the immutable origin anchor
+2. This key should be generated on an air-gapped system
+3. Keep the private key extremely secure
+4. Consider key escrow for business continuity
+5. Publish key fingerprint through multiple independent channels
+
+VERIFICATION:
+Anyone can verify documents signed with this key using:
+gpg --verify document.sig document
+
+For V6.0 implementation:
+- All major framework changes should be signed with this key
+- Guardian Network validates signatures
+- H_genesis = 1.0 if signature valid, 0.0 otherwise
+
+-----END PGP PUBLIC KEY BLOCK-----
+
+================================================================================
+
+INSTRUCTIONS FOR RAFA:
+
+1. Generate your PGP key pair
+2. Replace this entire file with your exported public key
+3. Keep private key secure (offline, encrypted)
+4. Sign the first commit of this repository
+5. Publish fingerprint on multiple channels
+
+This creates the cryptographic anchor for H_genesis.
+
+================================================================================
+
+"The genesis block is the Architect's word made cryptographic.
+ It cannot be forged. It cannot be revoked.
+ It is the origin from which trust derives."
+
+— Proyecto Estrella, V6.0
+January 2026
