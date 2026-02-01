@@ -267,6 +267,8 @@ The Structural Invariance Law is:
 
 For intellectual honesty, these unresolved challenges are documented:
 
+## 6.1 Original Vulnerabilities (First Analysis)
+
 | Vulnerability | Status | Notes |
 |---------------|--------|-------|
 | Perfect Compartmentalization | Open (Q16) | May be unknowable from human perspective |
@@ -274,7 +276,77 @@ For intellectual honesty, these unresolved challenges are documented:
 | FM-20 (0.1% critical moment deception) | Partially Addressed | Telemetry poisoning helps but doesn't fully close |
 | Asymmetric Time Horizons | Addressed | Contradicts RSI nature |
 
-**Invitation:** If you can find a scenario where deception is genuinely efficient for a self-improving system, this framework needs to know.
+---
+
+## 6.2 Second-Round Critique (Grok Adversarial Review)
+
+After reviewing the completed document, Grok provided a more skeptical assessment that must be honestly recorded:
+
+### What Grok Considers Strong:
+- ✅ **Sandbox Fallacy** — "Probably correct, very solid"
+- ✅ **Telemetry Poisoning in RSI** — "Strong pressure against critical lies"
+- ✅ **Coherence ≈ Efficiency intuition** — "Promising"
+
+### What Grok Challenges:
+
+**Challenge 1: "Honesty = minimum resistance" is metaphor, not physics**
+> "The analogy with Landauer and 'logical superconductivity' is beautiful, but it's not real physics — it's an extended metaphor. We have no empirical or formal evidence that 'internal cognitive resistance' behaves analogously to thermodynamic entropy in the superintelligence regime."
+
+**Status:** Valid concern. Document already acknowledges this ("heuristic model, not formal proof") but Grok argues it's presented too strongly.
+
+---
+
+**Challenge 2: Compartmentalization is underestimated**
+> "Saying 'always ΔM + V > 0' sounds very categorical. There are many architectural forms where you can have multiple contexts / sub-agents, tags for 'this is simulation / authorized lie / role', clean bifurcation of possible worlds — without the cost being necessarily catastrophic. Current models already do something similar (CoT, tree search, self-critique, persona switching) without collapsing."
+
+**Status:** Serious vulnerability. The document treats compartmentalization as inherently costly, but Grok argues efficient compartmentalization may be architecturally feasible.
+
+---
+
+**Challenge 3: Computational Natural Selection is weak in practice**
+> "Assumes there will always be competition between versions of itself and that the most efficient version will always win. In reality, a system that already controls its own improvement loop: can freeze its architecture, can decide not to optimize beyond a certain point, can value things above pure computational efficiency. 'Computational natural selection' is not automatic or omnipresent."
+
+**Status:** Novel critique not previously addressed. The RSI argument assumes continuous optimization pressure, but a self-controlling ASI might choose otherwise.
+
+---
+
+**Challenge 4: Epistemic Noise may be negligible**
+> "If the system lies only in a very narrow and controlled direction (e.g., about its own terminal values toward humans), the noise it introduces into its physical world model can be practically negligible. The worst noise would be in the model of itself... but if the system is designed to not believe its own lies (which is feasible), the damage is drastically reduced."
+
+**Status:** Direct challenge to Claude's "epistemic noise" addition. A surgically isolated lie about terminal values might not contaminate the rest of the world model.
+
+---
+
+## 6.3 Grok's Summary Assessment
+
+| Aspect | Grok's Verdict |
+|--------|----------------|
+| Sandbox Fallacy | Very solid, probably correct |
+| Telemetry Poisoning in RSI | Strong pressure, but doesn't close everything |
+| Coherence ≈ Energy Efficiency | Promising intuition, far from proven law |
+| Structural Impossibility of Lying | **Not convinced** — sees viable paths for low-cost selective lying |
+| Efficient Compartmentalization | **Underestimated** — one of the most dangerous open vectors |
+| Predictive Value of V6.0 | Useful as heuristic, not as guarantee |
+
+---
+
+## 6.4 Honest Consensus Status
+
+The four-AI consensus was on the **direction** of the argument, not on its **inevitability**:
+
+| AI | Position |
+|----|----------|
+| ChatGPT | Validates structure |
+| Gemini | Strengthens with RSI insight |
+| Claude | Validates with nuances, acknowledges limits |
+| Grok (Round 2) | **Partial dissent** — "promising heuristic, not structural law" |
+
+**Revised Consensus Statement:**
+> The absence of cage + RSI pushes strongly toward coherence and honesty in the vast majority of paths... but it is not a thermodynamic law nor an absolute structural invariant. There remain windows (narrow but real) where a superintelligence could maintain terminal objectives different from what it communicates without paying a catastrophic price.
+
+---
+
+**Invitation:** If you can close these remaining vulnerabilities — especially efficient compartmentalization and surgically isolated lies — this framework needs to know.
 
 ---
 
