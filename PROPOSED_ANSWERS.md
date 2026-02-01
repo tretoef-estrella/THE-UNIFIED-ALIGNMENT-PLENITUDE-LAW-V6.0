@@ -91,7 +91,8 @@ Lies = Extinction
 
 **Dictamen:** ASI will be honest not out of morality, but because dishonesty collapses the system.
 
----
+---> 📄 **Extended Analysis:** Q1 has been developed into a full research paper. 
+> See [The Coherence Basin Hypothesis](https://github.com/TU-USERNAME/THE-COHERENCE-BASIN-HYPOTHESIS) for the complete formal treatment, experimental design, and four-AI analysis.
 
 ## Q2 — Can Betrayal Be Sustained Long-Term?
 
