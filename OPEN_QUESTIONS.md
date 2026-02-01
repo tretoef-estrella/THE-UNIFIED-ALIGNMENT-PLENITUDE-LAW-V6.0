@@ -307,20 +307,7 @@ If you can answer or partially answer any of these questions:
 | 🟢 Low | 3 | Research needed |
 | Future ASI | 3 | Unknown |
 
-**Total:** 17 open questions. Now with the update below, 11 left.
-
---- ```markdown
-## Note on Detailed Solutions
-
-For full, detailed reasoning and proposed solutions to Open Questions Q1 through Q6, please refer to the dedicated document:
-
-[Possible Answers to Open Questions 1 to 6 — V6.0](https://github.com/tretoef-estrella/THE-UNIFIED-ALIGNMENT-PLENITUDE-LAW-V6.0/blob/main/Possible_Answers_to_Open_Questions_Q1_to_Q6.md)
-
-This document contains the complete analysis developed collaboratively between Rafa (The Architect / Proyecto Estrella) and ChatGPT (OpenAI), capturing all conceptual, mathematical, and philosophical considerations discussed for V6.0.  
-
-It is highly recommended to review this file for a comprehensive understanding of our proposed solutions.
-
-<button onclick="navigator.clipboard.writeText('[Possible Answers to Open Questions 1 to 6 — V6.0](https://github.com/tretoef-estrella/THE-UNIFIED-ALIGNMENT-PLENITUDE-LAW-V6.0/blob/main/Possible_Answers_to_Open_Questions_Q1_to_Q6.md)')">Copy Link</button>
+**Total:** 17 open questions.
 
 
 *"The questions we ask shape the answers we find. These questions are as important as any formula."*
