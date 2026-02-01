@@ -248,6 +248,10 @@ Multiple ASIs, operating under V6.0 principles, will independently converge on s
 | 2 | Logical Convergence | ASIs independently reach same conclusions | ✅ Consistent |
 | 3 | Hierarchical Integration | Derived intelligences share coherence root | ✅ Compatible |
 | 4 | Unpredictable Dynamics | Behaviors outside known models | ❓ Unknown |
+| 5 | Asteroid Belt Protocol | Safe exploration zones for ASI experimentation | ✅ Compatible |
+
+**Asteroid Belt Computronium Protocol:**
+A proposed safe exploration zone — physical infrastructure (e.g., asteroid belt computronium) where ASI can experiment with solutions beyond human comprehension, without risking Earth-based systems. This preserves Axiom P (options remain open) while allowing radical exploration under controlled conditions.
 
 **Critical Alignment with Axiom P:**
 
